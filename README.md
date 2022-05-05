@@ -1,7 +1,7 @@
 # arithmetic-expression-evaluator
 Compiler Design Project on - “Arithmetic Expression validator and Evaluator”
 
-TOOLS USED
+TOOLS USED:
 
 LEX The Lex tool receives at the input a set of user defined patterns that it uses to scan the source code. Each time the source code matches one of the patterns a defined action is executed by Lex (one of the action is that of returning the tokens).
 
